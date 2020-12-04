@@ -1,0 +1,88 @@
+Uri: https://mineblaze.ru/
+File Name: C:\Users\User\Desktop\WebSites\mineblaze.ru\index.htm
+Content Type: text/html
+
+Uri: https://mineblaze.ru/css/bootstrap.min.css
+File Name: C:\Users\User\Desktop\WebSites\mineblaze.ru\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://mineblaze.ru/css/style.css
+File Name: C:\Users\User\Desktop\WebSites\mineblaze.ru\css\style.css
+Content Type: text/css
+
+Uri: https://mineblaze.ru/skins.html
+File Name: C:\Users\User\Desktop\WebSites\mineblaze.ru\skins.html
+Content Type: text/html
+
+Uri: https://mineblaze.ru/plash.html
+File Name: C:\Users\User\Desktop\WebSites\mineblaze.ru\plash.html
+Content Type: text/html
+
+Uri: https://mineblaze.ru/js/jquery-2.2.0.min.js
+File Name: C:\Users\User\Desktop\WebSites\mineblaze.ru\js\jquery-2.2.0.min.js
+Content Type: application/javascript
+
+Uri: https://mineblaze.ru/js/bootstrap.min.js
+File Name: C:\Users\User\Desktop\WebSites\mineblaze.ru\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://mineblaze.ru/index.php
+File Name: C:\Users\User\Desktop\WebSites\mineblaze.ru\index.php.html
+Content Type: text/html
+
+Uri: https://tlauncher.org/ru/reg/
+File Name: C:\Users\User\Desktop\WebSites\mineblaze.ru\ru\reg\index.htm
+Content Type: text/html
+
+Uri: https://tlauncher.org/
+File Name: C:\Users\User\Desktop\WebSites\mineblaze.ru\index-1.htm
+Content Type: text/html
+
+Uri: https://mineblaze.ru/img/reg-tlauncher.png
+File Name: C:\Users\User\Desktop\WebSites\mineblaze.ru\img\reg-tlauncher.png
+Content Type: image/png
+
+Uri: https://mineblaze.ru/img/profile-tlauncher.png
+File Name: C:\Users\User\Desktop\WebSites\mineblaze.ru\img\profile-tlauncher.png
+Content Type: image/png
+
+Uri: https://mineblaze.ru/img/check-account-tlauncher-2.0.png
+File Name: C:\Users\User\Desktop\WebSites\mineblaze.ru\img\check-account-tlauncher-2.0.png
+Content Type: image/png
+
+Uri: https://mineblaze.ru/img/account-list-tl.jpg
+File Name: C:\Users\User\Desktop\WebSites\mineblaze.ru\img\account-list-tl.jpg
+Content Type: image/jpeg
+
+Uri: https://mineblaze.ru/img/install-tl-versions-2.0.png
+File Name: C:\Users\User\Desktop\WebSites\mineblaze.ru\img\install-tl-versions-2.0.png
+Content Type: image/png
+
+Uri: https://mineblaze.ru/img/skin-install-tl.jpg
+File Name: C:\Users\User\Desktop\WebSites\mineblaze.ru\img\skin-install-tl.jpg
+Content Type: image/jpeg
+
+Uri: https://mc.yandex.ru/watch/45219816
+File Name: C:\Users\User\Desktop\WebSites\mineblaze.ru\watch\45219816.gif
+Content Type: image/gif
+
+Uri: https://tlauncher.org/ru/premium.html
+File Name: C:\Users\User\Desktop\WebSites\mineblaze.ru\ru\premium.html
+Content Type: text/html
+
+Uri: https://mineblaze.ru/img/catalog-capes-tlauncher.png
+File Name: C:\Users\User\Desktop\WebSites\mineblaze.ru\img\catalog-capes-tlauncher.png
+Content Type: image/png
+
+Uri: https://mineblaze.ru/img/profile-tlauncher-cape.png
+File Name: C:\Users\User\Desktop\WebSites\mineblaze.ru\img\profile-tlauncher-cape.png
+Content Type: image/png
+
+Uri: https://mineblaze.ru/img/example-cape-minecraft.jpg
+File Name: C:\Users\User\Desktop\WebSites\mineblaze.ru\img\example-cape-minecraft.jpg
+Content Type: image/jpeg
+
+Uri: https://mc.yandex.ru/watch/50330080/1
+File Name: C:\Users\User\Desktop\WebSites\mineblaze.ru\watch\50330080\1.gif
+Content Type: image/gif
+
